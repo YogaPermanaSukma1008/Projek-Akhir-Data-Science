@@ -21,10 +21,6 @@ Proyek ini memiliki cakupan sebagai berikut:
 Berikut adalah tahapan untuk menyiapkannya:
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv 
 Pada dataset diatas, terdiri dari beberapa fitur, berikut adalah penjelasannya: 
-#### Sumber Data
-Data dalam proyek ini berasal dari https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv 
-
-Dataset ini memiliki keterangan seperti berikut:
 - Marital status - The marital status of the student. (Categorical) 1 – single 2 – married 3 – widower 4 – divorced 5 – facto union 6 – legally separated
 - Application mode - The method of application used by the student. (Categorical) 1 - 1st phase - general contingent 2 - Ordinance No. 612/93 5 - 1st phase - special contingent (Azores Island) 7 - Holders of other higher courses 10 - Ordinance No. 854-B/99 15 - International student (bachelor) 16 - 1st phase - special contingent (Madeira Island) 17 - 2nd phase - general contingent 18 - 3rd phase - general contingent 26 - Ordinance No. 533-A/99, item b2 (Different Plan) 27 - Ordinance No. 533-A/99, item b3 (Other Institution) 39 - Over 23 years old 42 - Transfer 43 - Change of course 44 - Technological specialization diploma holders 51 - Change of institution/course 53 - Short cycle diploma holders 57 - Change of institution/course (International)
 - Application order - The order in which the student applied. (Numerical) Application order (between 0 - first choice; and 9 last choice)
