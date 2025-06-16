@@ -6,3 +6,4 @@ scikit-optimize==0.10.2
 seaborn==0.13.2
 SQLAlchemy==2.0.41
 streamlit==1.42.2
+
