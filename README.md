@@ -84,7 +84,3 @@ Ditemukan bahwa kasus dropout mahasiswa sangat tinggi atau sekitar sepertiga dar
 - Fathers occupation : Dapat digeneralisir dengan kualifikasi pekerjaan ibu atau orang tua. Mahasiswa dengan orang tua yang memiliki pekerjaan cenderung unskilled work dapat diberikan bantuan keuangan berupa uang kuliah dengan golongan yang lebih rendah, pembebasan uang gedung, atau pemberian beasiswa. Kelompok mahasiswa dengan pekerjaan orang tua yang cenderung unskilled work rentan terhadap masalah keamanan keuangannya.
 - Previous Qualification grade : Dapat digeneralisir dengan admission grade, institusi pendidikan dapat menaikkan standar nilai masuk perguruan tinggi, mahasiswa yang dropout cenderung memiliki nilai masuk yang rendah.
 - Curricular Smt 1 dan 2 approved : Mahasiswa yang gagal pada mata kuliah tertentu dapat diberikan perkuliahan ulang melalui semester antara (dilaksanakan setelah semester kuliah yang sebenarnya selesai/libur perkuliahan).
-
-## Email dan Password Metabase
-- Email : yogapermanasukma102@gmail.com
-- Password : Fgq8j7523x
